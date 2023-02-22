@@ -51,7 +51,7 @@ for c in vertex_z:
 profile_map = mesh_map * (1-self.map)
 ```
 
-
+<img src="https://user-images.githubusercontent.com/88310751/220538762-78fa6d55-1048-4143-b476-aa38c443eee4.jpg" width="400" height="300">
 
 ### construct_config_space()
 
